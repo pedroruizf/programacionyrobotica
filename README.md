@@ -36,20 +36,18 @@
 
   * Entorno de programación gráfico:
 
-    * [Arduinoblocks](http://www.arduinoblocks.com/): entorno de programación gráfico online desarrollado por *Juanjo López*, muy recomendable y con un gran soporte de sensores y actuadores. [Documentación y guías](http://www.arduinoblocks.com/web/site/doc).
-    * Masayloblockly: entorno de programación gráfico desarrollado por *Antonio Gómez*, no sólo es capaz de programar a Arduino sino también a robots basado en el mismo. [Descarga](https://github.com/agomezgar/masayloBlockly/releases/tag/1.1.5).
+    * [Arduinoblocks](http://www.arduinoblocks.com/): entorno de programación gráfico online desarrollado por *Juanjo López*, muy recomendable y con un gran soporte de sensores y actuadores. [Documentación y guías](http://www.arduinoblocks.com/web/site/doc). Adecuado desde último ciclo de primaria hasta 3º de ESO.
+    * Masayloblockly: entorno de programación gráfico desarrollado por *Antonio Gómez*, no sólo es capaz de programar a Arduino sino también a robots basado en el mismo. [Descarga](https://github.com/agomezgar/masayloBlockly/releases/tag/1.1.5). Adecuado desde último ciclo de primaria hasta 3º de ESO.
 
   * Entorno de programación textual. [IDE de Arduino](https://www.arduino.cc/en/software).
 
-    * [Minicurso de Arduino por *Pedro Ruiz*](https://github.com/pedroruizf/arduino/tree/master/minicurso_arduino)
+    * [Minicurso de Arduino por *Pedro Ruiz*](https://github.com/pedroruizf/arduino/tree/master/minicurso_arduino). Adecuado desde 3º de ESO hasta Bachillerato.
     * Curso de The Tech Project: Arduino en el aula. 
 
   * Robots
 
-    * [Masaylo](https://clubroboticagranada.github.io/MASAYLO-CRG/)
-
+    * [Masaylo](https://clubroboticagranada.github.io/MASAYLO-CRG/). Adecuado desde último ciclo de primaria hasta Bachillerato, ya que se puede programar con Masayloblockly y con IDE de Arduino.
   * Shields: se conectan a arduino, incorporando fácilmente una serie de sensores y actuadores.
-
-    * [TDR Steam](https://shop.innovadidactic.com/es/para-centros-educativos/1445-kit-imagina-tdr-steam-basado-en-arduino.html) con su [manual de actividdaes y retos](https://drive.google.com/drive/folders/1C0YWKIxJHbd8JWIfPy97-JD2yuA2zu8a)
+      * [TDR Steam](https://shop.innovadidactic.com/es/para-centros-educativos/1445-kit-imagina-tdr-steam-basado-en-arduino.html) con su [manual de actividades y retos](https://drive.google.com/drive/folders/1C0YWKIxJHbd8JWIfPy97-JD2yuA2zu8a)
 
     
