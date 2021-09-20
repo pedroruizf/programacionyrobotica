@@ -4,6 +4,7 @@
 
 * Programación Gráfica
   * [Scratch](https://scratch.mit.edu/): editor de programas gráfico del *MIT*
+    * [Tutorial Prácticas Scratch (Por Javier Fernández)](https://lacienciaparatodos.files.wordpress.com/2018/04/prc3a1cticas-scratch-02-04-2018-v2.pdf)
     * [Lista de reproducción de vídeos sobre Scratch (Por *Pedro Ruiz*)](https://www.youtube.com/playlist?list=PLMmcVmU6CWlITFp3tp69S5aBK5lLqD7T2): colección de vídeos gradados en dificultad (son adecuados desde último ciclo de primaria hasta 3º de ESO)
   * [Snap](https://snap.berkeley.edu/): editor de programas gráfico de *Berkeley*
 * Programación textual
@@ -28,7 +29,7 @@
 * **Placa [Arduino](https://www.arduino.cc/)**: La placa más extendida y conocida para realizar proyectos relacionado con el control y la robótica.
   * Recursos generales
 
-    * [Curso de The Tech Project: Arduino en el aula](https://educacionadistancia.juntadeandalucia.es/aulavirtual/course/view.php?id=1264): curso en abierto pero hay que entrar con usuario IDEA de Junta de Andalucía. 
+    * [Curso de The Tech Project: Arduino en el aula](https://educacionadistancia.juntadeandalucia.es/aulavirtual/course/view.php?id=1264): curso en abierto pero hay que entrar con usuario IDEA de Junta de Andalucía, o como invitado. 
     * [Recursos sobre arduino de *Pedro Ruiz*](https://github.com/pedroruizf/arduino)
   * Entorno de programación gráfico:
 
@@ -37,7 +38,7 @@
   * Entorno de programación textual. [IDE de Arduino](https://www.arduino.cc/en/software).
 
     * [Minicurso de Arduino por *Pedro Ruiz*](https://github.com/pedroruizf/arduino/tree/master/minicurso_arduino). Adecuado desde 3º de ESO hasta Bachillerato.
-    * [Curso de The Tech Project: Arduino en el aula](https://educacionadistancia.juntadeandalucia.es/aulavirtual/course/view.php?id=1264): curso en abierto pero hay que entrar con usuario IDEA de Junta de Andalucía. 
+    * [Curso de The Tech Project: Arduino en el aula](https://educacionadistancia.juntadeandalucia.es/aulavirtual/course/view.php?id=1264): curso en abierto pero hay que entrar con usuario IDEA de Junta de Andalucía, o como invitado. 
   * Robots
     * [Masaylo](https://clubroboticagranada.github.io/MASAYLO-CRG/). Adecuado desde último ciclo de primaria hasta Bachillerato, ya que se puede programar con Masayloblockly y con IDE de Arduino.
   * Shields: se conectan a arduino, incorporando fácilmente una serie de sensores y actuadores.
