@@ -6,6 +6,7 @@
   * [Scratch](https://scratch.mit.edu/): editor de programas gráfico del *MIT*
     * [Tutorial Prácticas Scratch (Por Javier Fernández)](https://lacienciaparatodos.files.wordpress.com/2018/04/prc3a1cticas-scratch-02-04-2018-v2.pdf)
     * [Lista de reproducción de vídeos sobre Scratch (Por *Pedro Ruiz*)](https://www.youtube.com/playlist?list=PLMmcVmU6CWlITFp3tp69S5aBK5lLqD7T2): colección de vídeos gradados en dificultad (son adecuados desde último ciclo de primaria hasta 3º de ESO)
+    * Inteligencia Artificial y programación con Scratch: [Learning ml](https://web.learningml.org/)
   * [Snap](https://snap.berkeley.edu/): editor de programas gráfico de *Berkeley*
 * Programación textual
   * [Processing](https://processing.org/): lenguaje de programación basado en C, con [editor de programas](https://processing.org/download) con órdenes gráficas sobre el que se basa el entorno de desarrollo de Arduino (IDE de Arduino). . Es conveniente (si hay tiempo) primero enseñar a programar en processing para luego programar placas Arduino en su entorno de programación textual (IDE de Arduino).
@@ -54,10 +55,14 @@
       * [Sistemas de control automáticos programados con Arduino + Shield HY-M302 + Arduinoblocks (por *Pedro Ruiz*)](https://pedroruizf.github.io/arduino_shield_arduinoblocks/)
       * [Sistemas de control automáticos programados con IDE Arduino + TDR-Steam (por *Pedro Ruiz*)](https://pedroruizf.github.io/arduino_tdr_steam/)
 * [**Placa ESP32 STEAMakers**](https://shop.innovadidactic.com/es/standard-placas-shields-y-kits/1567-placa-esp32-steamakers.html)
-  * [Documentación y manual de programación](https://www.dropbox.com/s/dlaxgwj1vx8u1kw/Manual%20Actividades%20ESP32%20SteaMakers%202022_Junio.pdf?dl=0)
-  * [Control programado con ESP32 Steamaker + TDR-Steam + Arduinoblocks (centrado en IoT), (por *Pedro Ruiz*)](https://pedroruizf.github.io/steamakers_demo/)
-  * [Notas sobre ESP32 STEAMakers (por *Federico Coca*)](https://fgcoca.github.io/ESP32-STEAMakers/)
-
+  * Recursos generales
+    * [Documentación y manual de programación](https://www.dropbox.com/s/dlaxgwj1vx8u1kw/Manual%20Actividades%20ESP32%20SteaMakers%202022_Junio.pdf?dl=0)
+    * [Control programado con ESP32 Steamaker + TDR-Steam + Arduinoblocks (centrado en IoT), (por *Pedro Ruiz*)](https://pedroruizf.github.io/steamakers_demo/)
+    * [Notas sobre ESP32 STEAMakers (por *Federico Coca*)](https://fgcoca.github.io/ESP32-STEAMakers/)
+  * Robot
+    * [3Dbot](https://shop.innovadidactic.com/es/imagina-steam-y-makers/1598-kit-imagina-arduino-3dbot-esp32-steamakers-para-arduinoblocks.html)
+      * [Ejemplos de 3Dbot y ESP32STEAMakers por *Pedro Ruiz*](https://pedroruizf.github.io/ejemplos_3dbot/)
+  
 * **Simuladores**: la simulación de circuitos electrónicos y de control (robótica), incluida su programación, puede ser un sustitutivo (no ideal) si no tenemos placas de control para trabajar. Sólo necesitaremos ordenadores.
   * [Tinkercad](https://www.tinkercad.com/): simulador muy completo, incluso se puede gestionar cursos virtuales con su alumnado y sus trabajos. Simula muy bien Arduino sobre todo programado con IDE de Arduino, también permite programación de Arduino por bloques pero muy limitada. También permite simular y programar Micro:bit pero de forma menos completa que Makecode.
   * [Wokwi](https://wokwi.com/): simulador de sistemas basados en Arduino y ESP32.
