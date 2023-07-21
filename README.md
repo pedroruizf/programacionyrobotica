@@ -6,7 +6,9 @@
   * [Scratch](https://scratch.mit.edu/): editor de programas gráfico del *MIT*
     * [Tutorial Prácticas Scratch (Por Javier Fernández)](https://lacienciaparatodos.files.wordpress.com/2018/04/prc3a1cticas-scratch-02-04-2018-v2.pdf)
     * [Lista de reproducción de vídeos sobre Scratch (Por *Pedro Ruiz*)](https://www.youtube.com/playlist?list=PLMmcVmU6CWlITFp3tp69S5aBK5lLqD7T2): colección de vídeos gradados en dificultad (son adecuados desde último ciclo de primaria hasta 3º de ESO)
-    * Inteligencia Artificial y programación con Scratch: [Learning ml](https://web.learningml.org/)
+    * Inteligencia Artificial y programación con Scratch: 
+      * [Learning ml](https://web.learningml.org/)
+      * [Teachable machine de google con scratch](https://github.com/champierre/tm2scratch)
   * [Snap](https://snap.berkeley.edu/): editor de programas gráfico de *Berkeley*
 * Programación textual
   * [Processing](https://processing.org/): lenguaje de programación basado en C, con [editor de programas](https://processing.org/download) con órdenes gráficas sobre el que se basa el entorno de desarrollo de Arduino (IDE de Arduino). . Es conveniente (si hay tiempo) primero enseñar a programar en processing para luego programar placas Arduino en su entorno de programación textual (IDE de Arduino).
