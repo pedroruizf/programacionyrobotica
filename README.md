@@ -25,6 +25,7 @@
   * Entornos de programación gráfico:
     *  [Makecode](https://makecode.microbit.org/#) recomendado para no iniciad@s.
       * [Retos de Micro:bit con Makecode (por *Pedro Ruiz*)](https://github.com/pedroruizf/microbit/tree/master/makecode). Adecuado desde último ciclo de primaria hasta 3º de ESO.
+      * Controlar microbit con machine leraning (IA) de google de forma fácil: [https://microbitai.inventor.city/](https://microbitai.inventor.city)
     * [Microblocks](https://microblocks.fun/) recomendado para no iniciad@s.
       * [Retos de Micro:bit con Microblocks (por *Ardutaller*)](https://www.ardutaller.com.es/microblocks/microbit). Adecuado desde el último ciclo de primaria.
   * Entorno de Programación textual: [Python editor de Micro:bit](https://python.microbit.org/v/2?l=es-ES)
